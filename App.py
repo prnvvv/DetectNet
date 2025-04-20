@@ -17,8 +17,8 @@ st.set_page_config(
 )
 
 # Set paths and constants
-MODEL_PATH = r"C:\Users\venka\OneDrive\Dokumen\GitHub\DetectNet\Network_Intrusion_Detection.pkl"
-DATA_PATH = r"C:\Users\venka\OneDrive\Dokumen\GitHub\DetectNet\Network_Intrusion_Detection_Dataset.csv"
+MODEL_PATH = r"C:\Users\Asus\OneDrive\Documents\GitHub\DetectNet\Network_Intrusion_Detection.pkl"
+DATA_PATH = r"C:\Users\Asus\OneDrive\Documents\GitHub\DetectNet\Network_Intrusion_Detection_Dataset.csv"
 FEATURES = [
     'Port Number', 'Received Packets', 'Received Bytes', 'Sent Bytes', 
     'Sent Packets', 'Port alive Duration (S)', 'Packets Rx Dropped',

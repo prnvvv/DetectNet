@@ -1,0 +1,22 @@
+# requirements.txt
+
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+requests
+
+# Streamlit and related libraries
+streamlit
+streamlit-option-menu
+streamlit-lottie
+streamlit-plotly-events
+
+# Data handling and serialization
+pickle-mixin
+
+# Miscellaneous
+tqdm
